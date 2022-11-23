@@ -8,7 +8,7 @@ import { CrediProSommaireListe, CreditProListe } from '../../untils/Listes'
 
 function CreditPro() {
   useEffect(() => {
-    document.title = `ZETO - Crédit Pro`
+    document.title = `Finance Canada - Crédit Pro`
   }, [])
 
   const SPANspan = styled.span`

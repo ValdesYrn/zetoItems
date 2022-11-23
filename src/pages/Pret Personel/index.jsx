@@ -11,7 +11,7 @@ import {
 
 function PretPersonel() {
   useEffect(() => {
-    document.title = `ZETO - Prêt Personel`
+    document.title = `Finance Canada - Prêt Personel`
   }, [])
   return (
     <section>

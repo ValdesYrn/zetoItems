@@ -8,7 +8,7 @@ import styled from 'styled-components'
 
 function CreditExpress() {
   useEffect(() => {
-    document.title = `ZETO - Crédit express`
+    document.title = `Finance Canada - Crédit express`
   }, [])
 
   const SPANspan = styled.span`

@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 
 function NotFound() {
   useEffect(() => {
-    document.title = `ZETO - Error`
+    document.title = `Finance Canada - Error`
   }, [])
   return (
     <section>

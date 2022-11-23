@@ -8,7 +8,7 @@ import Section5 from '../../components/Sections/Section 5'
 
 export default function Home() {
   useEffect(() => {
-    document.title = `ZETO `
+    document.title = `Finance Canada `
   }, [])
   return (
     <>
