@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/static/js/main.9d43a0f0.js",
-    "static/media/LoanPro.jpg": "/static/media/LoanPro.9b67e89c62fb0d1a2852.jpg",
-    "static/media/LoanExpress.jpg": "/static/media/LoanExpress.7c5796be85704c64b48d.jpg",
-    "static/media/franfinance.png": "/static/media/franfinance.155412d0ec552f1065c7.png",
-    "static/media/Fload.png": "/static/media/Fload.d881c8415b7862943cfe.png",
-    "static/media/oneys.png": "/static/media/oneys.0b9c238cd9dfdcb3279c.png",
-    "static/media/LoanPersonnel2.png": "/static/media/LoanPersonnel2.7c84ba0a815daed02f9a.png",
-    "static/media/CA.png": "/static/media/CA.8a79758b77788e405069.png",
-    "static/media/BNP.png": "/static/media/BNP.af56799cef8af3aa272c.png",
-    "static/media/digital.png": "/static/media/digital.c087dacdfabef26421dd.png",
-    "static/media/fast-time.png": "/static/media/fast-time.494b645b9deb4eb67f79.png",
-    "static/media/security.png": "/static/media/security.e28a34aa111c751af96c.png",
-    "static/media/running.png": "/static/media/running.f5415c36a5da0097e4eb.png",
-    "static/media/Logo1.png": "/static/media/Logo1.a921b1c829ef5e4d7dcf.png",
-    "index.html": "/index.html",
-    "main.9d43a0f0.js.map": "/static/js/main.9d43a0f0.js.map"
+    "main.js": "/zetoItems/static/js/main.f54d4253.js",
+    "static/media/LoanPro.jpg": "/zetoItems/static/media/LoanPro.9b67e89c62fb0d1a2852.jpg",
+    "static/media/LoanExpress.jpg": "/zetoItems/static/media/LoanExpress.7c5796be85704c64b48d.jpg",
+    "static/media/franfinance.png": "/zetoItems/static/media/franfinance.155412d0ec552f1065c7.png",
+    "static/media/Fload.png": "/zetoItems/static/media/Fload.d881c8415b7862943cfe.png",
+    "static/media/oneys.png": "/zetoItems/static/media/oneys.0b9c238cd9dfdcb3279c.png",
+    "static/media/LoanPersonnel2.png": "/zetoItems/static/media/LoanPersonnel2.7c84ba0a815daed02f9a.png",
+    "static/media/CA.png": "/zetoItems/static/media/CA.8a79758b77788e405069.png",
+    "static/media/BNP.png": "/zetoItems/static/media/BNP.af56799cef8af3aa272c.png",
+    "static/media/digital.png": "/zetoItems/static/media/digital.c087dacdfabef26421dd.png",
+    "static/media/fast-time.png": "/zetoItems/static/media/fast-time.494b645b9deb4eb67f79.png",
+    "static/media/security.png": "/zetoItems/static/media/security.e28a34aa111c751af96c.png",
+    "static/media/running.png": "/zetoItems/static/media/running.f5415c36a5da0097e4eb.png",
+    "static/media/Logo1.png": "/zetoItems/static/media/Logo1.a921b1c829ef5e4d7dcf.png",
+    "index.html": "/zetoItems/index.html",
+    "main.f54d4253.js.map": "/zetoItems/static/js/main.f54d4253.js.map"
   },
   "entrypoints": [
-    "static/js/main.9d43a0f0.js"
+    "static/js/main.f54d4253.js"
   ]
 }
